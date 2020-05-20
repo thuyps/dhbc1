@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[AppDelegate applicationWillResignActive:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.count_press_home">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController CreateUI]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mContext.is_release_version">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WinViewController addCongrat]:WinViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "bg.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GamePlayViewController openCharAtIndex:]:GamePlayViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "kDidOpen">
+            </PersistentString>
+            <PersistentString
+               value = "bt.state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WinViewController reCreateUI]:WinViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "congratView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WinViewController CreateAnswer]:WinViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "container.frame">
+            </PersistentString>
+            <PersistentString
+               value = "bt.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CustomContext loadLocalData]:CustomContext.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.kiemruby">
+            </PersistentString>
+            <PersistentString
+               value = "self.mIsSync">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

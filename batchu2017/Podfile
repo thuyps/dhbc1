@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+
+target 'batchu' do
+    pod 'MBProgressHUD'
+    pod 'AFNetworking'
+    pod 'GoogleAnalytics'
+    pod 'Firebase/AdMob'
+    pod 'Reachability'
+    pod 'ALToastView'
+
+end

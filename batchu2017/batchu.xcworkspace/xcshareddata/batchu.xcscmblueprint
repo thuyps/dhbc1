@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1855cb5f-d84e-4105-8219-792666456c60",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "1855cb5f-d84e-4105-8219-792666456c60" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1855cb5f-d84e-4105-8219-792666456c60" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8ACC28B5-23F2-468A-8AE6-82AD37A41433",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1855cb5f-d84e-4105-8219-792666456c60" : "batchu_\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "batchu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS\/batchu2017\/batchu.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/weplay.svn.cloudforge.com\/batchu",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1855cb5f-d84e-4105-8219-792666456c60"
+    }
+  ]
+}
